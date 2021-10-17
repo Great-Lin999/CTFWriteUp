@@ -4,5 +4,6 @@
 
 ## 安装
 
+- 使用环境为`windows`
 - [官方](https://www.sweetscape.com/download/010editor/)的需要付费，可以对官方的进行[破解](https://cloud.tencent.com/developer/article/1856253)
 - 直接下载破解版的`010Editor`，[下载](http://www.pc6.com/softview/SoftView_55129.html)
