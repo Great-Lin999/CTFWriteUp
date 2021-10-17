@@ -6,6 +6,9 @@
 2. 最简单的隐写算法就是`LSB`，对其进行提取
 3. 比起在网上找`LSB`的加解密算法，很多关于`LSB`隐写的`writeup`里面都会提到[StegSolve](http://www.caesum.com/handbook/Stegsolve.jar)，可以使用这款工具直接进行数据提取、图片拼接。
 > [StegSolve的基本安装和使用](https://github.com/linzqin/CTFWriteUp/blob/master/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/StegSolve.md)
+4. 使用`StegSolve`打开图片，选择进行`RGB`最低位提取，得到`flag`    
+
+![](./img/镜子里的世界flag.png)    
 
 ## 参考资料
 
