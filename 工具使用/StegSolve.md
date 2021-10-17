@@ -48,10 +48,20 @@ java -jar Stegsolve.jar
 
 ## 使用
 
-## 实验问题
+### Analyse
 
-1. 
+- `File Format`:文件格式，这个主要是查看图片的具体信息   
+
+![](./img/fileformat.png)   
+
+- `Data Extract`:数据抽取，图片中隐藏数据的抽取
+    - `Alpha`就是透明度 该通道用`256`级灰度来记录图像中的透明度信息，定义透明、不透明和半透明区域。`alpha`的值为0就是全透明，`alpha`的值为`255`则表示不透明
+- `Frame Browser`:帧浏览器，主要是对`GIF`之类的动图进行分解，动图变成一张张图片，便于查看
+
+- `Image Combiner`:拼图，图片拼接
+
 ## 参考资料
 
 - [在Kali Linux中下载工具Stegsolve](https://www.bbsmax.com/A/rV57X4QWdP/)
 - [Kali中安装Java环境（保你一次性安装成功）](https://blog.csdn.net/userpass_word/article/details/103838606)
+- [stegsolve使用方法](https://www.cnblogs.com/cat47/p/11483478.html)
