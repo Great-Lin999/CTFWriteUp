@@ -18,3 +18,4 @@
 
 - [ZIP文件格式分析](https://blog.csdn.net/a200710716/article/details/51644421)
 - [BUUCTF ZIP伪加密](https://blog.csdn.net/MikeCoke/article/details/105877451)
+- [两个加密标识位修改造成不同的效果](https://blog.csdn.net/afanzcf/article/details/119794319)
