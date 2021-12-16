@@ -68,3 +68,5 @@ r.interactive()
 
 ## 参考资料
 
+- [[BUUCTF]PWN4——pwn1_sctf_2016](https://blog.csdn.net/mcmuyanga/article/details/108202748)
+- [BUUCTF之pwn题解（一些栈题+程序分析）](https://blog.csdn.net/qq_51032807/article/details/112545011)
